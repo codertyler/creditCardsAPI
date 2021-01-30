@@ -1,0 +1,533 @@
+{
+  "banks": [
+    {
+      "id": 0,
+      "name": "CIBC",
+      "creditCards": [
+        {
+          "id": 0,
+          "cardName": "CIBC Aventura® Visa Infinite* Card",
+          "thumbnailURL" : "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-aventura-infinite-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Join and get up to $400 in value1. Plus, get a first-year annual fee rebate.",
+          "annualFee": 120,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": 60000,
+          "householdIncome": 100000,
+          "insurance": {
+            "tripCancelInter": [true, "Trip Cancellation and Trip Interruption"],
+            "flightDelayBaggage": [true, "Flight Delay and Baggage Insurance"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"],
+            "comCarrierAccident": [true, "Common Carrier Accident "],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [true, "Mobile Device"],
+            "hotelBurglary": [true, "Hotel and Motel Burglary "],
+            "outOfProv": [true, "Out-of-Province Emergency Travel Medical"],
+            "paymentProtect" : [false, "Optional CIBC Payment Protector for Credit Cards"]
+          },
+          "keyFeatures": ["Earn up to 20,000 Aventura® Points", "Get 15,000 points when you make your first purchase. Then, get 5,000 bonus points when you spend $3,000 or more during the first 4 monthly statement periods.", "Find out where your points can fly you.", "Aventura Travel Assistant Access personalized travel booking and trip planning with no booking fees"],
+          "otherFeatures": ["Fly any airline, with no blackout periods and points that don’t expire.", "Use Aventura Points to cover full airfare including taxes and fees", "Visit the CIBC Rewards Centre to redeem your points for hotel stays, vacation packages, cruises, merchandise, gift cards and one-of-a-kind activities"]
+        },
+
+        {
+          "id": 1,
+          "cardName": "CIBC Aeroplan® Visa Infinite* Card",
+          "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/online-banking/ps-ac/cibc-olb-ps-ac-aeroplan-infinite-front-fr.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer" : "Earn 10,000 Aeroplan points on your first purchase.† Get a bonus Buddy Pass anywhere Air Canada® flies in North America, plus a first-year annual fee rebate.",
+          "annualFee": 139,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": 60000,
+          "householdIncome": 100000,
+          "insurance": {
+            "tripCancelInter": [true, "Trip Cancellation and Trip Interruption"],
+            "flightDelayBaggage": [true, "Flight Delay and Baggage Insurance"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"],
+            "comCarrierAccident": [true, "Common Carrier Accident "],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [true, "Mobile Device"],
+            "hotelBurglary": [true, "Hotel and Motel Burglary "],
+            "outOfProv": [true, "Out-of-Province Emergency Travel Medical"],
+            "paymentProtect" : [false]
+          },
+          "keyFeatures": ["Earn 10,000 Aeroplan points on your first purchase", "You also get a bonus Buddy Pass anywhere Air Canada flies in North America, including Mexico and Hawaii, when you spend $3,000 or more during your first 4 months from the date the credit card account is opened.", "Plus, get a first-year annual fee rebate.", "Enjoy a free first checked bag for you, authorized users and up to 8 companions every time you fly with Air Canada.", "Get comprehensive insurance coverage including out-of-province medical, mobile device, hotel burglary and trip cancellation/interruption."],
+          "otherFeatures": ["Your authorized users can access travel benefits even when travelling without you by linking their Aeroplan number.", "Primary cardholders can often book flight rewards for even fewer points.10 Plus, no additional airline surcharges on flight rewards with Air Canada flights.", "With Aeroplan Family Sharing, combine points with other Aeroplan members in your household to redeem your next flight reward sooner."]
+        },
+        {
+          "id": 2,
+          "cardName": "CIBC Aventura® Visa Infinite Privilege* Card",
+          "thumbnailURL": "https://www.cibc.com/content/dam/personal_banking/credit_cards/product_pages/alpha-vip/Visa-Infinite-Privilege.svg/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Join and get up to $450 in value",
+          "annualFee": 499,
+          "purchaseInterest": 0.2099,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": 150000,
+          "householdIncome": 200000,
+          "insurance": {
+            "tripCancelInter": [true, "Trip Cancellation and Trip Interruption"],
+            "flightDelayBaggage": [true, "Flight Delay and Baggage Insurance"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"],
+            "comCarrierAccident": [true, "Common Carrier Accident "],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [true, "Mobile Device"],
+            "hotelBurglary": [true, "Hotel and Motel Burglary "],
+            "outOfProv": [true, "Out-of-Province Emergency Travel Medical"],
+            "paymentProtect" : [false, "Optional CIBC Payment Protector for Credit Cards"]
+          },
+          "keyFeatures": ["Get 25,000 Aventura Points when you spend $3,000 or more during your first 4 monthly statement periods.† That’s enough for a short-haul flight!", "Enjoy an annual $200 travel credit when you book travel with an Aventura Travel Assistant", "Collect more points on your everyday spending and get access to business class bookings"],
+          "otherFeatures": ["Access 1,300+ airport lounges with a Priority Pass™ membership and get 6 complimentary lounge visits per year", "Speed up your border crossings with 2 NEXUS application fee rebates every 4 years", ""]
+        },
+
+        {
+          "id": 3,
+          "cardName": "CIBC Aeroplan® Visa Infinite Privilege* Card",
+          "thumbnailURL" : "https://www.cibc.com/content/dam/global/card_images/online-banking/ps-ac/cibc-olb-ps-ac-aeroplan-infinite-privilege-front-fr.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Earn 20,000 Aeroplan® points on your first purchase.† Plus, get a bonus Buddy Pass anywhere Air Canada® flies in North America.",
+          "annualFee": 599,
+          "purchaseInterest": 0.199,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": 150000,
+          "householdIncome": 200000,
+          "insurance": {
+            "tripCancelInter": [true, "Trip Cancellation and Trip Interruption"],
+            "flightDelayBaggage": [true, "Flight Delay and Baggage Insurance"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"],
+            "comCarrierAccident": [true, "Common Carrier Accident "],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [true, "Mobile Device"],
+            "hotelBurglary": [true, "Hotel and Motel Burglary "],
+            "outOfProv": [true, "Out-of-Province Emergency Travel Medical"],
+            "paymentProtect" : [false]
+          },
+          "keyFeatures": ["Plus, get a bonus Buddy Pass anywhere Air Canada flies in North America, including Mexico and Hawaii, when you spend $3,000 or more during the first 4 months from the date the credit card account is opened.", "Access select Maple Leaf Lounges™ and Air Canada Cafés™.1, 2 Plus, get 6 complimentary Priority Pass™ lounge visits per year per cardholder.", "Receive an Annual Worldwide Companion Pass from $99 to a max of $599 (plus taxes, fees, charges and surcharges) when you spend $25,000 on your card."],
+          "otherFeatures": ["Enjoy a free first checked bag for you, your authorized users and up to 8 companions every time you fly with Air Canada.", "Your authorized users can access travel benefits even when travelling without you by linking their Aeroplan number.", "Primary cardholders can often book flight rewards for even fewer points.13 Plus, no additional airline surcharges on flight rewards with Air Canada."]
+        },
+        {
+          "id": 4,
+          "cardName": "CIBC Aventura® Gold Visa* Card",
+          "thumbnailURL":"https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-aventura-gold-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Join and get up to $400 in value1. Plus, get a first-year annual fee rebate.",
+          "annualFee": 120,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": null,
+          "householdIncome": 15000,
+          "insurance": {
+            "tripCancelInter": [true, "Trip Cancellation and Trip Interruption"],
+            "flightDelayBaggage": [true, "Flight Delay and Baggage Insurance"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"],
+            "comCarrierAccident": [true, "Common Carrier Accident "],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [true, "Mobile Device"],
+            "hotelBurglary": [true, "Hotel and Motel Burglary "],
+            "outOfProv": [true, "Out-of-Province Emergency Travel Medical"],
+            "paymentProtect" : [false, "Optional CIBC Payment Protector for Credit Cards"]
+          },
+          "keyFeatures": ["Get 15,000 points when you make your first purchase. Then, get 5,000 bonus points when you spend $3,000 or more during the first 4 monthly statement periods. Plus, get a first-year annual fee rebate!", "Find out where your points can fly you. Use our Flight Search tool", "Access personalized travel booking and trip planning with no booking fees"],
+          "otherFeatures": ["Fly any airline, with no blackout periods and points that don’t expire", "Use Aventura Points to cover full airfare including taxes and fees", "Visit the CIBC Rewards Centre to redeem your points for hotel stays, vacation packages, cruises, merchandise, gift cards and one-of-a-kind activities"]
+        },
+        {
+          "id" : 5,
+          "cardName": "CIBC Aventura® Visa* Card",
+          "thumbnailURL":"https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-aventura-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Join and get up to $100 in value for no annual fee",
+          "annualFee": 0,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": null,
+          "householdIncome": 15000,
+          "insurance": {
+            "tripCancelInter": [false],
+            "flightDelayBaggage": [false],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"],
+            "comCarrierAccident": [true, "Common Carrier Accident "],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [false],
+            "hotelBurglary": [false],
+            "outOfProv": [false],
+            "paymentProtect" : [false, "Optional CIBC Payment Protector for Credit Cards"]
+          },
+          "keyFeatures": ["Get 7,500 bonus Aventura Points when you make your first purchase. Plus, earn up to 2,500 Aventura Points.", "90-day protection with Purchase Security Insurance1 if your new purchase is stolen or breaks", "Access personalized travel booking and trip planning with no booking fees"],
+          "otherFeatures": ["Fly any airline with points that don’t expire", "Use Aventura Points to cover full airfare including taxes and fees", "Visit the CIBC Rewards Centre to redeem your points for hotel stays, vacation packages, cruises, merchandise, gift cards and one-of-a-kind activities"]
+        },
+        {
+          "id": 6,
+          "cardName": "CIBC Aeroplan® Visa* Card",
+          "thumbnailURL":"https://www.cibc.com/content/dam/global/card_images/online-banking/ps-ac/cibc-olb-ps-ac-aeroplan-platinum-front-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Earn 10,000 Aeroplan® points on your first purchase.",
+          "annualFee": 0,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": null,
+          "householdIncome": 15000,
+          "insurance": {
+            "tripCancelInter": [false],
+            "flightDelayBaggage": [false],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"],
+            "comCarrierAccident": [true, "Common Carrier Accident "],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [false],
+            "hotelBurglary": [false],
+            "outOfProv": [false],
+            "paymentProtect" : [false]
+          },
+          "keyFeatures": ["That's enough for a one-way economy class short-haul ticket in North America (for example, Toronto to New York).", "Primary cardholders can often book flight rewards for even fewer points.1 Plus, no additional airline surcharges on flight rewards with Air Canada.", "Get insurance coverage for car rental collision and damage, plus extra protection for new purchases."],
+          "otherFeatures": ["With Aeroplan Family Sharing, combine points with other Aeroplan members in your household to redeem your next flight reward sooner.", "Every seat available for purchase is also available for Aeroplan points — no restrictions.9 Plus, pay for flight rewards with a combination of points and cash.", "Aeroplan points won't expire as long as you, the primary cardholder, continue to hold your CIBC Aeroplan credit card."]
+        },
+
+        {
+          "id": 7,
+          "cardName": "CIBC Dividend® Visa Infinite* Card",
+          "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-dividend-infinite-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Get a first-year annual-fee rebate.†  Plus, get a 10.99% introductory interest rate on all purchases until August 2021.",
+          "annualFee": 99,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": 60000,
+          "householdIncome": 100000,
+          "GasGroceryCashBack" : 0.04,
+          "CashBack" : 0.01,
+          "insurance": {
+            "tripCancelInter": [false],
+            "tripInter" :[true, "Trip Interruption Insurance"],
+            "flightDelayBaggage": [true, "Flight Delay and Baggage Insurance"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"],
+            "comCarrierAccident": [true, "Common Carrier Accident"],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [false],
+            "hotelBurglary": [false],
+            "outOfProv": [true, "Out-of-Province Emergency Travel Medical"],
+            "paymentProtect" : [false, "Optional CIBC Payment Protector for Credit Cards"]
+          },
+          "keyFeatures": ["Get 4% cash back on gas and grocery purchases", "Get 1% cash back on everything else", "No limit on the total cash back you can earn", "Get 15 days of out-of-province coverage"],
+          "otherFeatures": ["The Visa Infinite program gives you access to luxury worldwide travel and hotel benefits"]
+        },
+        {
+          "id": 8,
+          "cardName": "CIBC Dividend Platinum® Visa* Card",
+          "thumbnailURL":"https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-dividend-platinum-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Get a first-year annual-fee rebate!†  Plus, get a 10.99% introductory interest rate on all purchases until August 2021.",
+          "annualFee": 99,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": null,
+          "householdIncome": 15000,
+          "GasGroceryCashBack" : 0.04,
+          "CashBack" : 0.01,
+          "insurance": {
+            "tripCancelInter": [false],
+            "flightDelayBaggage": [false],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"],
+            "comCarrierAccident": [true, "Common Carrier Accident "],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [false],
+            "hotelBurglary": [false],
+            "outOfProv": [false, "Optional CIBC Emergency Travel"],
+            "paymentProtect" : [false, "Optional CIBC Payment Protector for Credit Cards"]
+          },
+          "keyFeatures": ["4% cash back on gas and grocery purchases", "Get 1% cash back on everything else", "No limit on the total cash back you can earn", "Double the manufacturer's original warranty up to one year on most of your purchases"],
+          "otherFeatures": null
+        },
+        {
+          "id": 9,
+          "cardName": "CIBC Dividend® Visa* Card",
+          "thumbnailURL" : "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-dividend-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": null,
+          "annualFee": 0,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": null,
+          "householdIncome": 15000,
+          "GasGroceryCashBack" : 0.02,
+          "CashBack" : 0.01,
+          "insurance": {
+            "tripCancelInter": [false],
+            "flightDelayBaggage": [false],
+            "autoRentalColLossDamage": [false],
+            "comCarrierAccident": [true, "Common Carrier Accident "],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [false],
+            "hotelBurglary": [false],
+            "outOfProv": [false, "Optional CIBC Emergency Travel"],
+            "paymentProtect" : [false, "Optional CIBC Payment Protector for Credit Cards"]
+          },
+          "keyFeatures": ["2% cash back on grocery store purchases", "Get up to 1% cash back on everything else", "No limit on the total cash back you can earn", "Double the manufacturer's original warranty up to one year on most of your purchases"],
+          "otherFeatures": null
+        },
+
+        {
+          "id": 10,
+          "cardName": "CIBC U.S. Dollar Aventura® Gold Visa* Card",
+          "thumbnailURL":"https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-us-dollar-aventura-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Save on U.S. currency conversion fees^. Plus, earn up to 2,500 Aventura Points",
+          "annualFee": 35,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "quebecCash": 0.2199,
+          "individualIncome": null,
+          "householdIncome": 15000,
+          "insurance": {
+            "tripCancelInter": [false],
+            "flightDelayBaggage": [false],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"],
+            "comCarrierAccident": [true, "Common Carrier Accident "],
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [false],
+            "hotelBurglary": [false],
+            "outOfProv": [false, "Optional CIBC Emergency Travel"],
+            "paymentProtect" : [false]
+          },
+          "keyFeatures": [],
+          "otherFeatures": []
+        },
+        {
+          "id": 11,
+          "cardName": "CIBC Select Visa* Card",
+          "thumbnailURL" : "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-select-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Get a first-year annual fee rebate.",
+          "annualFee": 29,
+          "purchaseInterest": 0.1399,
+          "cashInterest":  0.1399,
+          "quebecCash": null,
+          "individualIncome": null,
+          "householdIncome": 15000,
+          "insurance": {
+            "tripCancelInter": [false],
+            "flightDelayBaggage": [false],
+            "autoRentalColLossDamage": [false],
+            "comCarrierAccident": [false],
+            "purchaseSecExtProtec": [false],
+            "mobileDevice": [false],
+            "hotelBurglary": [false],
+            "outOfProv": [false, "Optional CIBC Emergency Travel"],
+            "paymentProtect" : [false, "Optional CIBC Payment Protector for Credit Cards"]
+          },
+          "keyFeatures": [],
+          "otherFeatures": []
+        }
+
+      ]
+    },
+
+    {
+      "id": 1,
+      "name": "Neo Financial",
+      "creditCards": [
+        {
+          "id": 0,
+          "cardName": "Essential",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 0,
+          "purchaseInterestRange": [0.1999, 0.2499],
+          "cashInterest":  [0.2299, 0.2699],
+          "recommended spend": "< 750",
+          "partnerAvgCashBack" : 0.04,
+          "nonPartnerAvgCashBack" : null,
+          "otherFeatures": []
+        },
+        {
+          "id": 1,
+          "cardName": "Plus",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 59.88,
+          "purchaseInterestRange": [0.1999, 0.2499],
+          "cashInterest":  [0.2299, 0.2699],
+          "recommended spend": "1000 > 750",
+          "partnerAvgCashBack" : 0.05,
+          "nonPartnerAvgCashBack" : 0.005,
+          "otherFeatures": []
+        },
+        {
+          "id": 2,
+          "cardName": "Max",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 119.88,
+          "purchaseInterestRange": [0.1999, 0.2499],
+          "cashInterest":  [0.2299, 0.2699],
+          "recommended spend": "> 1000",
+          "partnerAvgCashBack" : 0.06,
+          "nonPartnerAvgCashBack" : 0.01,
+          "otherFeatures": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ATB Financial",
+      "creditCards": [
+        {
+          "id": 0,
+          "cardName": "Gold Cash Rewards® Mastercard®",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 0,
+          "purchaseInterest": 0.1990,
+          "cashInterest":  0.2190,
+          "cashBack" : 0.01,
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"]
+          },
+          "otherFeatures": ["Get up to 25% off car rentals at participating Avis® and Budget® locations, when you pay with your Gold Cash Rewards® Mastercard."]
+        },
+        {
+          "id": 1,
+          "cardName": "Gold My Rewards® Travel Mastercard®",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 0,
+          "purchaseInterest": 0.1990,
+          "cashInterest":  0.2190,
+          "rewards" : "10 points per dollar spent",
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"]
+          },
+          "otherFeatures": ["Get up to 25% off car rentals at participating Avis® and Budget® locations, when you pay with your Gold Cash Rewards® Mastercard."]
+        },
+        {
+          "id": 2,
+          "cardName": "World Elite® Mastercard®",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 0,
+          "purchaseInterest": 0.1990,
+          "cashInterest":  0.2190,
+          "rewards" : "10 points per dollar spent",
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"]
+          },
+          "otherFeatures": ["Get up to 25% off car rentals at participating Avis® and Budget® locations, when you pay with your Gold Cash Rewards® Mastercard."]
+        },
+        {
+          "id": 3,
+          "cardName": "ATB Preferred® Fixed-Rate Mastercard®",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 29,
+          "purchaseInterest": 0.1590,
+          "purchaseInterestPref" : 0.1090,
+          "cashInterest":  0.1590,
+          "cashInterestPref":  0.1090,
+          "rewards" : "Flexible credit with a fixed 10.9% interest rate—one rate for purchases and cash advances, so you stay in control of what you owe.",
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [],
+            "autoRentalColLossDamage": []
+          },
+          "otherFeatures": ["The ATB Preferred Fixed-Rate Mastercard is a credit card that fits any budget. Pay a ​low annual fee of $29 and get peace of mind all year.", "Add a little fun and pizazz to your wallet! Choose from over a hundred images to add to your ATB Preferred Fixed-Rate Mastercard using MyPic®"]
+        },
+        {
+          "id": 4,
+          "cardName": "ATB Preferred® Variable-Rate Mastercard®",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 29,
+          "purchaseInterest": "Between ATB Prime + 5% and ATB Prime + 7%",
+          "cashInterest":  "Between ATB Prime + 6% and ATB Prime + 8%",
+          "rewards" : "Get a variable interest rate that floats with ATB's prime rate—as low as prime +5% for purchases and prime +6% for cash advances.",
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [],
+            "autoRentalColLossDamage": []
+          },
+          "otherFeatures": ["The ATB Preferred Variable-Rate Mastercard has a low annual fee of $29. Even if your interest rate changes, you never pay more for your card.", "Add a little fun and pizazz to your wallet! Choose from over a hundred images to add to your ATB Preferred Fixed-Rate Mastercard using MyPic®"]
+        },
+        {
+          "id": 5,
+          "cardName": "Alberta Mastercard®",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 0,
+          "purchaseInterest": 0.1990,
+          "cashInterest":  0.2190,
+          "rewards" : "Access credit at a standard interest rate for an ATB Mastercard - but with no annual fee. You only pay interest on unpaid balances.",
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [],
+            "autoRentalColLossDamage": []
+          },
+          "otherFeatures": ["Add a little fun and pizazz to your wallet! Choose from over a hundred images to add to your Alberta Mastercard using MyPic®."]
+        },
+        {
+          "id": 6,
+          "cardName": "Gold My Rewards® Travel Mastercard®",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 0,
+          "purchaseInterest": 0.1990,
+          "cashInterest":  0.2190,
+          "rewards" : "Earn 10 points on every dollar you spend, with no limits on how many points you can earn and no expiration dates on your rewards.",
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"]
+          },
+          "otherFeatures": ["Redeem points at ATB My Rewards®, and use toward travel, merchandise or cash rewards. To access rewards sooner, just pay the difference.","Travel easy with flight delay and delayed luggage insurance1 and travel assistance services2 included. Use points to book your own flights with no black-out periods.","​​Get up to 25% off car rentals at participating Avis® and Budget® locations when you pay with your ATB Financial Rewards Mastercard."]
+        },
+        {
+          "id": 7,
+          "cardName": "US Dollar Mastercard®",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 19,
+          "purchaseInterest": 0.1990,
+          "cashInterest":  0.2190,
+          "rewards" : "No exchange fees for US dollar (USD) purchases. No confusion about spending. Your card is charged in USD, and USD appears on your statement.",
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"]
+          },
+          "otherFeatures": ["At just $19 USD a year, our US Dollar Mastercard®offers a lot of value at a low cost.","Expand your payment options with the ability to make pre-authorized payments, withdraw cash advances and use mobile wallets.","Get up to 25% off car rentals at participating Avis® and Budget® locations when you pay with your Mastercard."]
+        }, 
+        {
+          "id": 8,
+          "cardName": "US Dollar Mastercard®",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "annualFee": 19,
+          "purchaseInterest": 0.1990,
+          "cashInterest":  0.2190,
+          "rewards" : "Introducing your new budget buddy. You can only spend what you’ve already loaded, so you won't be stuck with a bill at the end of the month.",
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "autoRentalColLossDamage": [true, "Auto Rental Collision and Loss Damage"]
+          },
+          "otherFeatures": ["Even if your card is lost or stolen, no crook can access your cash accounts or rack up charges above and beyond the card balance. You're also protected against unauthorized transactions.","No credit check is required, so kids can enjoy the convenience of their own credit card without either of you worrying about overspending.", "Moving money onto your card is a snap with ATB Online® or ATB Mobile. The money moves instantly from your ATB account and there’s no minimum balance.", "Once you've loaded funds onto your card, it can be used anywhere Mastercard is accepted. You can use it to make point-of-sale or online purchases, use it internationally or with a mobile wallet for contactless or in-app purchases.", "Track your Load & Go balance, automate reloads and review pending transactions through ATB Online and ATB Mobile."]
+        }
+      ]
+    }
+    
+  ]
+}
