@@ -1,8 +1,8 @@
-# Credit Cards API
+# Credit Cards Canada API
 
 Check out the deployed version here: https://creditcardscanada-api.herokuapp.com/ 
 
-I made this API to start a credit cards ranking/scoring website by using some good ol' web scraping and manual entry. Currently it has information from the following banks:
+I made this API to start a credit cards ranking/scoring website by using some good ol' web scraping and manual entry. Currently it has information from the following Canadian financial institutions:
 
   - CIBC
   - Neo Financial
