@@ -398,7 +398,7 @@
         },
         {
           "id": 1,
-          "cardName": "Gold My Rewards® Travel Mastercard®",
+          "car}dName": "Gold My Rewards® Travel Mastercard®",
           "provider" : "MasterCard",
           "welcomeOffer": null,
           "annualFee": 0,
@@ -414,10 +414,7 @@
         },
         {
           "id": 2,
-          "cardName": "World Elite® Mastercard®",
-          "provider" : "MasterCard",
-          "welcomeOffer": null,
-          "annualFee": 0,
+          "car}ualFee": 0,
           "purchaseInterest": 0.1990,
           "cashInterest":  0.2190,
           "rewards" : "10 points per dollar spent",
@@ -527,7 +524,111 @@
           "otherFeatures": ["Even if your card is lost or stolen, no crook can access your cash accounts or rack up charges above and beyond the card balance. You're also protected against unauthorized transactions.","No credit check is required, so kids can enjoy the convenience of their own credit card without either of you worrying about overspending.", "Moving money onto your card is a snap with ATB Online® or ATB Mobile. The money moves instantly from your ATB account and there’s no minimum balance.", "Once you've loaded funds onto your card, it can be used anywhere Mastercard is accepted. You can use it to make point-of-sale or online purchases, use it internationally or with a mobile wallet for contactless or in-app purchases.", "Track your Load & Go balance, automate reloads and review pending transactions through ATB Online and ATB Mobile."]
         }
       ]
+    },
+
+    {
+      "id": 3,
+      "name": "RBC Royal Bank",
+      "creditCards": [
+        {
+          "id": 0,
+          "cardName": "RBC Avion Visa Infinite",
+          "thumbnailURL" : "https://www.rbcroyalbank.com/credit-cards/app/assets/cards/iav_infiniteavion_en_sm.png",
+          "provider" : "Visa",
+          "welcomeOffer": "Start flying today with 15,000 welcome points",
+          "rewards": "Earn 1 RBC Rewards point for every dollar you spend",
+          "individualIncome": 60000,
+          "householdIncome": 100000,
+          "annualFee": 120,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "cashBack" : null,
+          "additionalCardsFee" : 50,
+          "insurance" : {
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"],
+            "mobileDevice": [true, "Mobile Device Insurance included – up to $1,500"],
+            "tripCancelInter": [true, "Trip Cancellation and Trip Interruption"]
+
+          },
+          "otherFeatures": ["No blackout periods or seat restrictions – ever!", "Instantly save 3¢/L on fuel4 and always earn 20% more Petro-Points","Always earn 20% more RBC Rewards points","Get 50 Be Well points for every $1 spent on eligible products at Rexall","Redeem Be Well points faster for savings in store on eligible purchases14; 25,000 Be Well points = $10"]
+        },
+        {
+          "id": 1,
+          "cardName": "RBC Rewards+ Visa",
+          "thumbnailURL" : "https://www.rbcroyalbank.com/credit-cards/app/assets/cards/rvc_rewardsplus_en_sm.png",
+          "provider" : "Visa",
+          "welcomeOffer": null,
+          "rewards": ["Earn 1 RBC Rewards point for every $1 spent on gas, grocery and drug store purchases", "Earn 1 RBC Rewards point for every $2 spent on all other purchases"],
+          "individualIncome": null,
+          "householdIncome": null,
+          "annualFee": 0,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "cashBack" : null,
+          "additionalCardsFee" : 0,
+          "insurance" : null,
+          "otherFeatures": ["Get up to 3,500 bonus RBC Rewards points for going digital","Save and Earn Faster with RBC Offers"]
+        },
+        {
+          "id": 2,
+          "cardName": "RBC Cash Back Preferred World Elite Mastercard",
+          "thumbnailURL" : "https://www.rbcroyalbank.com/credit-cards/app/assets/cards/mcp_cashbackpreferred_en_sm.png",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "rewards": ["Earn up to 1.5% cash back on your spending1 – big or small","That's right. Get unlimited cash back, plus your rewards accumulate automatically, so tracking is hassle-free."],
+          "individualIncome": 80000,
+          "householdIncome": 150000,
+          "annualFee": 120,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "cashBack" : 0.015,
+          "additionalCardsFee" : 50,
+          "insurance" : null,
+          "otherFeatures": ["Link your card and instantly save 3¢/L on fuel4 and always earn 20% more Petro-Points at Petro-Canada", "Get 50 Be Well points for every $1 spent on eligible products at Rexall","Redeem Be Well points faster for savings in store on eligible purchases12; 25,000 Be Well points = $10", "Complimentary out of home mobile internet access at over 1 million hotspots worldwide and on select airlines with Boingo (registration required)"]
+        },
+        {
+          "id": 3,
+          "cardName": "RBC Cash Back Mastercard",
+          "thumbnailURL" : "https://www.rbcroyalbank.com/credit-cards/app/assets/cards/mc1_cashbackmc_en_sm.png",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "rewards": "Unlimited cash back and up to 2% back on groceries",
+          "individualIncome": null,
+          "householdIncome": null,
+          "annualFee": 0,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "cashBackGrocery" : 0.02,
+          "cashBackPreAuth" : 0.01,
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"]
+          },
+          "otherFeatures": ["Link your card and instantly save 3¢/L on fuel4 and always earn 20% more Petro-Points at Petro-Canada", "Get 50 Be Well points for every $1 spent on eligible products at Rexall","Redeem Be Well points faster for savings in store on eligible purchases12; 25,000 Be Well points = $10", "Complimentary out of home mobile internet access at over 1 million hotspots worldwide and on select airlines with Boingo (registration required)"]
+        },
+        {
+          "id": 3,
+          "cardName": "RBC Cash Back Mastercard",
+          "thumbnailURL" : "https://www.rbcroyalbank.com/credit-cards/app/assets/cards/mc1_cashbackmc_en_sm.png",
+          "provider" : "MasterCard",
+          "welcomeOffer": null,
+          "rewards": "Unlimited cash back and up to 2% back on groceries",
+          "individualIncome": null,
+          "householdIncome": null,
+          "annualFee": 0,
+          "purchaseInterest": 0.1999,
+          "cashInterest":  0.2299,
+          "cashBackGrocery" : 0.02,
+          "cashBackPreAuth" : 0.01,
+          "additionalCardsFee" : 0,
+          "insurance" : {
+            "purchaseSecExtProtec": [true, "Purchase Security and Extended Protection"]
+          },
+          "otherFeatures": ["Link your card and instantly save 3¢/L on fuel4 and always earn 20% more Petro-Points at Petro-Canada", "Get 50 Be Well points for every $1 spent on eligible products at Rexall","Redeem Be Well points faster for savings in store on eligible purchases12; 25,000 Be Well points = $10", "Complimentary out of home mobile internet access at over 1 million hotspots worldwide and on select airlines with Boingo (registration required)"]
+        }
+      ]
     }
+    
     
   ]
 }
