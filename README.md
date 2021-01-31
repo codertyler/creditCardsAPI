@@ -1,5 +1,7 @@
 # Credit Cards API
 
+Check out the deployed version here: https://creditcardscanada-api.herokuapp.com/ 
+
 I made this API to start a credit cards ranking/scoring website by using some good ol' web scraping and manual entry. Currently it has information from the following banks:
 
   - CIBC
@@ -13,4 +15,3 @@ Please feel free to add more data into the API.
   - Feel free to suggest what to add.
   - Feel free to correct the information.
 
-  
