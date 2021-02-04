@@ -1502,6 +1502,245 @@
           ]
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Scotiabank",
+      "creditCards": [
+        {
+          "id": 0,
+          "cardName": "Scotia Momentum® Visa Infinite* Card",
+          "thumbnailURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/en/card-arts/Momentum_Visa_Infinite_ENG.png",
+          "provider": "Visa",
+          "welcomeOffer": "Earn 10% cash back on all purchases for the first 3 months (up to $2,000 in total purchases). Plus, no annual fee in the first year, including on supplementary cards. A welcome offer value of $350.",
+          "rewards" : null,
+          "annualFee": 120,
+          "purchaseInterest": 0.2099,
+          "cashInterest": 0.2299,
+          "minCredit" : 5000,
+          "additionalCardsFee": 50,
+          "GasGroceryCashBack": 0.04,
+          "GasDailyTransitCashBack": 0.02,
+          "regularCashBack" : 0.01,
+          "individualIncome": 60000,
+          "householdIncome": 100000,
+          "insurance": {
+            "tripCancelInter": [
+              true,
+              "Charge at least 75% of your trip costs to your Card and get trip cancellation and trip interruption insurance at no extra cost."
+            ],
+            "flightDelay": [
+              true,
+              "Charge at least 75% of the full ticket cost to your Card and you’ll be eligible for reimbursement of necessary expenses, such as hotel accommodations, meals, and other emergency items"
+            ],
+            "baggageDelay" : [true, "Charge the full cost of your airplane, train, bus, or cruise ship tickets to your Card. If your checked luggage is delayed or lost, you’re covered."]
+            ,
+            "travelAccident" : [true, "Charge at least 75% of your ticket cost to your Card and you’re insured against accidental loss of life or dismemberment."],
+            "autoRentalColLossDamage": [
+              true,
+              "Charge the full cost of your eligible rental car to your Card and you’re automatically insured if your rental is damaged or stolen."
+            ],
+            "hotelBurglary": [
+              true,
+              "Use your Card to pay for your stay at any hotel or motel in Canada or the U.S."
+            ],
+            "purchaseSecExtProtec": [
+              true,
+              "Most items purchased with your Card are insured against theft, loss, or damage for 90 days from the purchase date. The manufacturer’s warranty is also doubled for up to one year."
+            ],
+            "priceProtectionService": [
+              true,
+              "Most items purchased with your Card are protected in the event of a price drop within 60-days of purchase."
+            ],
+            "outOfProv": [
+              true,
+              "Coverage is provided for eligible persons under age 65 for up to 15 consecutive days."
+            ]
+          },
+          "keyFeatures": [
+            "You will not be charged a Foreign Currency Conversion mark-up on foreign currency purchases whether you make them online or outside of Canada. Only the exchange rate applies.",
+            "Visa Infinite* Hotel Collection",
+            "Visa Infinite* Dining and Wine Country program"
+          ],
+          "otherFeatures": [
+            "Save up to 25% off base rates at participating AVIS locations and at participating Budget locations in Canada and the U.S. when you pay with your Scotia Momentum® Visa Infinite* Card.",
+            "Tap your Scotia Momentum® Visa Infinite* Card or your smartphone for quick easy payments."
+          ]
+        },
+        {
+          "id": 1,
+          "cardName": "Scotiabank Passport™ Visa Infinite* Card",
+          "thumbnailURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/en/card-arts/Scotia_Passport_VisaInfinite_ENG.png",
+          "provider": "Visa",
+          "welcomeOffer": "Earn up to 30,000 bonus Scotia Rewards points in your first year (that’s up to $300 towards travel).",
+          "rewards" : ["Earn 2 Scotia Rewards points on every $1 you spend on eligible grocery stores, dining, entertainment purchases, and daily transit purchases (including buses, subways, taxis and more).", "Earn 1 Scotia Rewards point on every $1 you spend on all other eligible purchases."],
+          "annualFee": 139,
+          "purchaseInterest": 0.1999,
+          "cashInterest": 0.2299,
+          "minCredit" : 5000,
+          "additionalCardsFee": [0, "$50/year on each additional Card"],
+          "GasGroceryCashBack": 0.04,
+          "GasDailyTransitCashBack": 0.02,
+          "regularCashBack" : 0.01,
+          "individualIncome": 60000,
+          "householdIncome": 100000,
+          "insurance": {
+            "tripCancelInter": [
+              true,
+              "Charge at least 75% of your trip costs to your Card and get trip cancellation and trip interruption insurance at no extra cost."
+            ],
+            "flightDelay": [
+              true,
+              "Charge at least 75% of the full ticket cost to your Card and you’ll be eligible for reimbursement of necessary expenses, such as hotel accommodations, meals, and other emergency items"
+            ],
+            "baggageDelay" : [true, "Charge the full cost of your airplane, train, bus, or cruise ship tickets to your Card. If your checked luggage is delayed or lost, you’re covered."]
+            ,
+            "travelAccident" : [true, "Charge at least 75% of your ticket cost to your Card and you’re insured against accidental loss of life or dismemberment."],
+            "autoRentalColLossDamage": [
+              true,
+              "Charge the full cost of your eligible rental car to your Card and you’re automatically insured if your rental is damaged or stolen."
+            ],
+            "purchaseSecExtProtec": [
+              true,
+              "Most items purchased with your Card are insured against theft, loss, or damage for 90 days from the purchase date. The manufacturer’s warranty is also doubled for up to one year."
+            ],
+            "mobileDevice": [
+              true,
+              "Protect your new cell phones, smartphones, or tablets purchased using your Card on or after August 1, 2019. This is one of the few Cash Back Visa Infinite* credit cards with this insurance benefit."
+            ],
+            "outOfProv": [
+              true,
+              "Coverage is provided for eligible persons under age 65 for up to 25 consecutive days and for eligible persons age 65 and older for up to 10 consecutive days."
+            ]
+          },
+          "keyFeatures": [
+            "No foreign transaction fees",
+            "6 Complimentary Airport Lounge Access",
+            "Book and redeem easily"
+          ],
+          "otherFeatures": [
+            "Save on car rentals",
+            "Save time at the checkout"
+          ]
+        }
+      ],
+      {
+        "id": 4,
+        "name": "Scotiabank",
+        "creditCards": [
+          {
+            "id": 0,
+            "cardName": "Scotia Momentum® Visa Infinite* Card",
+            "thumbnailURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/en/card-arts/Momentum_Visa_Infinite_ENG.png",
+            "provider": "Visa",
+            "welcomeOffer": "Earn 10% cash back on all purchases for the first 3 months (up to $2,000 in total purchases). Plus, no annual fee in the first year, including on supplementary cards. A welcome offer value of $350.",
+            "rewards" : null,
+            "annualFee": 120,
+            "purchaseInterest": 0.2099,
+            "cashInterest": 0.2299,
+            "minCredit" : 5000,
+            "regularCashBack" : 0.01,
+            "individualIncome": 60000,
+            "householdIncome": 100000,
+            "insurance": {
+              "tripCancelInter": [
+                true,
+                "Charge at least 75% of your trip costs to your Card and get trip cancellation and trip interruption insurance at no extra cost."
+              ],
+              "flightDelay": [
+                true,
+                "Charge at least 75% of the full ticket cost to your Card and you’ll be eligible for reimbursement of necessary expenses, such as hotel accommodations, meals, and other emergency items"
+              ],
+              "baggageDelay" : [true, "Charge the full cost of your airplane, train, bus, or cruise ship tickets to your Card. If your checked luggage is delayed or lost, you’re covered."]
+              ,
+              "travelAccident" : [true, "Charge at least 75% of your ticket cost to your Card and you’re insured against accidental loss of life or dismemberment."],
+              "autoRentalColLossDamage": [
+                true,
+                "Charge the full cost of your eligible rental car to your Card and you’re automatically insured if your rental is damaged or stolen."
+              ],
+              "hotelBurglary": [
+                true,
+                "Use your Card to pay for your stay at any hotel or motel in Canada or the U.S."
+              ],
+              "purchaseSecExtProtec": [
+                true,
+                "Most items purchased with your Card are insured against theft, loss, or damage for 90 days from the purchase date. The manufacturer’s warranty is also doubled for up to one year."
+              ],
+              "priceProtectionService": [
+                true,
+                "Most items purchased with your Card are protected in the event of a price drop within 60-days of purchase."
+              ],
+              "outOfProv": [
+                true,
+                "Coverage is provided for eligible persons under age 65 for up to 15 consecutive days."
+              ]
+            },
+            "keyFeatures": [
+              "You will not be charged a Foreign Currency Conversion mark-up on foreign currency purchases whether you make them online or outside of Canada. Only the exchange rate applies.",
+              "Visa Infinite* Hotel Collection",
+              "Visa Infinite* Dining and Wine Country program"
+            ],
+            "otherFeatures": [
+              "Save up to 25% off base rates at participating AVIS locations and at participating Budget locations in Canada and the U.S. when you pay with your Scotia Momentum® Visa Infinite* Card.",
+              "Tap your Scotia Momentum® Visa Infinite* Card or your smartphone for quick easy payments."
+            ]
+          },
+          {
+            "id": 2,
+            "cardName": "Scotiabank Gold American Express® Card",
+            "thumbnailURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/en/card-arts/Gold_American_Express_Card_Eng.png",
+            "provider": "Visa",
+            "welcomeOffer": "Earn up to 30,000 bonus Scotia Rewards points in your first year (that’s up to $300 towards travel).",
+            "rewards" : ["Earn 2 Scotia Rewards points on every $1 you spend on eligible grocery stores, dining, entertainment purchases, and daily transit purchases (including buses, subways, taxis and more).", "Earn 1 Scotia Rewards point on every $1 you spend on all other eligible purchases."],
+            "annualFee": 120,
+            "purchaseInterest": 0.1999,
+            "cashInterest": 0.2299,
+            "minCredit" : 5000,
+            "additionalCardsFee": [29, "per year"],
+            "GasGroceryCashBack": 0.04,
+            "GasDailyTransitCashBack": 0.02,
+            "regularCashBack" : 0.01,
+            "individualIncome": 60000,
+            "householdIncome": 100000,
+            "insurance": {
+              "tripCancelInter": [
+                true,
+                "Charge at least 75% of your trip costs to your Card and get trip cancellation and trip interruption insurance at no extra cost."
+              ],
+              "flightDelay": [
+                true,
+                "Charge at least 75% of the full ticket cost to your Card and you’ll be eligible for reimbursement of necessary expenses, such as hotel accommodations, meals, and other emergency items"
+              ],
+              "baggageDelay" : [true, "Charge the full cost of your airplane, train, bus, or cruise ship tickets to your Card. If your checked luggage is delayed or lost, you’re covered."]
+              ,
+              "travelAccident" : [true, "Charge at least 75% of your ticket cost to your Card and you’re insured against accidental loss of life or dismemberment."],
+              "autoRentalColLossDamage": [
+                true,
+                "Charge the full cost of your eligible rental car to your Card and you’re automatically insured if your rental is damaged or stolen."
+              ],
+              "purchaseSecExtProtec": [
+                true,
+                "Most items purchased with your Card are insured against theft, loss, or damage for 90 days from the purchase date. The manufacturer’s warranty is also doubled for up to one year."
+              ],
+              "mobileDevice": [
+                true,
+                "Protect your new cell phones, smartphones, or tablets purchased using your Card on or after August 1, 2019. This is one of the few Cash Back Visa Infinite* credit cards with this insurance benefit."
+              ],
+              "outOfProv": [
+                true,
+                "Coverage is provided for eligible persons under age 65 for up to 25 consecutive days and for eligible persons age 65 and older for up to 10 consecutive days."
+              ]
+            },
+            "keyFeatures": [
+              "No foreign transaction fees",
+              "6 Complimentary Airport Lounge Access",
+              "Book and redeem easily"
+            ],
+            "otherFeatures": [
+              "Save on car rentals",
+              "Save time at the checkout"
+            ]
+       } }
     }
   ]
 }

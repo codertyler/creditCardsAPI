@@ -8,6 +8,7 @@ I made this API to start a credit cards ranking/scoring website by using some go
   - Neo Financial
   - ATB Financial
   - RBC Royal Bank
+  - Scotiabank
 
 Please feel free to add more data into the API.
 
