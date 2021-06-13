@@ -7,7 +7,7 @@
       "creditCards": [
         {
           "id": 0,
-          "cardName": "CIBC Aventura® Visa Infinite* Card",
+          "cardName": "CIBC Aventura® Visa Infinite",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-aventura-infinite-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Join and get up to $400 in value1. Plus, get a first-year annual fee rebate.",
@@ -69,7 +69,7 @@
         },
         {
           "id": 1,
-          "cardName": "CIBC Aeroplan® Visa Infinite* Card",
+          "cardName": "CIBC Aeroplan® Visa Infinite",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/online-banking/ps-ac/cibc-olb-ps-ac-aeroplan-infinite-front-fr.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Earn 10,000 Aeroplan points on your first purchase.† Get a bonus Buddy Pass anywhere Air Canada® flies in North America, plus a first-year annual fee rebate.",
@@ -131,7 +131,7 @@
         },
         {
           "id": 2,
-          "cardName": "CIBC Aventura® Visa Infinite Privilege* Card",
+          "cardName": "CIBC Aventura® Visa Infinite Privilege",
           "thumbnailURL": "https://www.cibc.com/content/dam/personal_banking/credit_cards/product_pages/alpha-vip/Visa-Infinite-Privilege.svg/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Join and get up to $450 in value",
@@ -192,7 +192,7 @@
         },
         {
           "id": 3,
-          "cardName": "CIBC Aeroplan® Visa Infinite Privilege* Card",
+          "cardName": "CIBC Aeroplan® Visa Infinite Privilege",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/online-banking/ps-ac/cibc-olb-ps-ac-aeroplan-infinite-privilege-front-fr.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Earn 20,000 Aeroplan® points on your first purchase.† Plus, get a bonus Buddy Pass anywhere Air Canada® flies in North America.",
@@ -252,7 +252,7 @@
         },
         {
           "id": 4,
-          "cardName": "CIBC Aventura® Gold Visa* Card",
+          "cardName": "CIBC Aventura® Gold Visa",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-aventura-gold-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Join and get up to $400 in value1. Plus, get a first-year annual fee rebate.",
@@ -313,7 +313,7 @@
         },
         {
           "id": 5,
-          "cardName": "CIBC Aventura® Visa* Card",
+          "cardName": "CIBC Aventura® Visa",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-aventura-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Join and get up to $100 in value for no annual fee",
@@ -369,7 +369,7 @@
         },
         {
           "id": 6,
-          "cardName": "CIBC Aeroplan® Visa* Card",
+          "cardName": "CIBC Aeroplan® Visa",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/online-banking/ps-ac/cibc-olb-ps-ac-aeroplan-platinum-front-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Earn 10,000 Aeroplan® points on your first purchase.",
@@ -424,7 +424,7 @@
         },
         {
           "id": 7,
-          "cardName": "CIBC Dividend® Visa Infinite* Card",
+          "cardName": "CIBC Dividend® Visa Infinite",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-dividend-infinite-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Get a first-year annual-fee rebate.†  Plus, get a 10.99% introductory interest rate on all purchases until August 2021.",
@@ -487,7 +487,7 @@
         },
         {
           "id": 8,
-          "cardName": "CIBC Dividend Platinum® Visa* Card",
+          "cardName": "CIBC Dividend Platinum® Visa",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-dividend-platinum-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Get a first-year annual-fee rebate!†  Plus, get a 10.99% introductory interest rate on all purchases until August 2021.",
@@ -543,7 +543,7 @@
         },
         {
           "id": 9,
-          "cardName": "CIBC Dividend® Visa* Card",
+          "cardName": "CIBC Dividend® Visa",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-dividend-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": null,
@@ -598,7 +598,7 @@
         },
         {
           "id": 10,
-          "cardName": "CIBC U.S. Dollar Aventura® Gold Visa* Card",
+          "cardName": "CIBC U.S. Dollar Aventura® Gold Visa",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-us-dollar-aventura-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Save on U.S. currency conversion fees^. Plus, earn up to 2,500 Aventura Points",
@@ -646,7 +646,7 @@
         },
         {
           "id": 11,
-          "cardName": "CIBC Select Visa* Card",
+          "cardName": "CIBC Select Visa",
           "thumbnailURL": "https://www.cibc.com/content/dam/global/card_images/com/flat/cibc-visa-select-en.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png",
           "provider": "Visa",
           "welcomeOffer": "Get a first-year annual fee rebate.",
