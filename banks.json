@@ -3,6 +3,7 @@
     {
       "id": 0,
       "name": "CIBC",
+      "bankLogo" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/CIBC_logo.svg/1200px-CIBC_logo.svg.png",
       "creditCards": [
         {
           "id": 0,
@@ -694,6 +695,7 @@
     {
       "id": 1,
       "name": "Neo Financial",
+      "bankLogo" : "https://assets-global.website-files.com/5fae138614a2b1f00004f0e5/60b7cd300b70864ae73901e2_logo.png",
       "creditCards": [
         {
           "id": 12,
@@ -760,6 +762,7 @@
     {
       "id": 2,
       "name": "ATB Financial",
+      "bankLogo" : "https://www.atb.com/Static/img/ATBlogo.PNG",
       "creditCards": [
         {
           "id": 15,
@@ -983,6 +986,7 @@
     {
       "id": 3,
       "name": "RBC Royal Bank",
+      "bankLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/RBC_Royal_Bank.svg/1200px-RBC_Royal_Bank.svg.png",
       "creditCards": [
         {
           "id": 24,
