@@ -784,7 +784,7 @@
         },
         {
           "id": 16,
-          "car}dName": "Gold My Rewards® Travel Mastercard®",
+          "cardName": "Gold My Rewards® Travel Mastercard®",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 0,
@@ -808,7 +808,7 @@
         },
         {
           "id": 17,
-          "car}ualFee": 0,
+          "annualFee": 0,
           "purchaseInterest": 0.1990,
           "cashInterest": 0.2190,
           "rewards": "10 points per dollar spent",
