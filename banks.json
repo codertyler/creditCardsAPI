@@ -700,7 +700,7 @@
         {
           "id": 12,
           "cardName": "Essential",
-          "thumbnailURL" : "https://cdn.shortpixel.ai/client2/q_lossy,ret_img,w_232,h_232/https://loanscanada.ca/wp-content/uploads/2020/12/Neo-Financial-Credit-Card.png",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/Neo_essential.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 0,
@@ -720,7 +720,7 @@
         {
           "id": 13,
           "cardName": "Plus",
-          "thumbnailURL" : "https://cdn.shortpixel.ai/client2/q_lossy,ret_img,w_232,h_232/https://loanscanada.ca/wp-content/uploads/2020/12/Neo-Financial-Credit-Card.png",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/Neo_Plus.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 59.88,
@@ -740,7 +740,7 @@
         {
           "id": 14,
           "cardName": "Max",
-          "thumbnailURL" : "https://cdn.shortpixel.ai/client2/q_lossy,ret_img,w_232,h_232/https://loanscanada.ca/wp-content/uploads/2020/12/Neo-Financial-Credit-Card.png",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/Neo_Max.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 119.88,
@@ -767,7 +767,7 @@
         {
           "id": 15,
           "cardName": "Gold Cash Rewards® Mastercard®",
-          "thumbnailURL" : "https://www.atb.com/Static/img/ATBlogo.PNG",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/ATB_Gold.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 0,
@@ -792,7 +792,7 @@
         {
           "id": 16,
           "cardName": "Gold My Rewards® Travel Mastercard®",
-          "thumbnailURL" : "https://www.atb.com/Static/img/ATBlogo.PNG",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/ATB_Gold.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 0,
@@ -817,7 +817,7 @@
         {
           "id": 17,
           "cardName" : "World Elite® Mastercard®",
-          "thumbnailURL" : "https://www.atb.com/Static/img/ATBlogo.PNG",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/ATB_World_Elite.png",
           "annualFee": 0,
           "purchaseInterest": 0.1990,
           "cashInterest": 0.2190,
@@ -840,7 +840,7 @@
         {
           "id": 18,
           "cardName": "ATB Preferred® Fixed-Rate Mastercard®",
-          "thumbnailURL" : "https://www.atb.com/Static/img/ATBlogo.PNG",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/ATB_Preferred.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 29,
@@ -862,7 +862,7 @@
         {
           "id": 19,
           "cardName": "ATB Preferred® Variable-Rate Mastercard®",
-          "thumbnailURL" : "https://www.atb.com/Static/img/ATBlogo.PNG",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/ATB_Preferred.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 29,
@@ -882,7 +882,7 @@
         {
           "id": 20,
           "cardName": "Alberta Mastercard®",
-          "thumbnailURL" : "https://www.atb.com/Static/img/ATBlogo.PNG",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/ATB_Alberta.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 0,
@@ -901,7 +901,7 @@
         {
           "id": 21,
           "cardName": "Gold My Rewards® Travel Mastercard®",
-          "thumbnailURL" : "https://www.atb.com/Static/img/ATBlogo.PNG",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/ATB_Gold.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 0,
@@ -928,7 +928,7 @@
         {
           "id": 22,
           "cardName": "US Dollar Mastercard®",
-          "thumbnailURL" : "https://www.atb.com/Static/img/ATBlogo.PNG",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/ATB_USD.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 19,
@@ -954,8 +954,8 @@
         },
         {
           "id": 23,
-          "cardName": "US Dollar Mastercard®",
-          "thumbnailURL" : "https://www.atb.com/Static/img/ATBlogo.PNG",
+          "cardName": "ATB Load & Go™ Prepaid Mastercard®",
+          "thumbnailURL" : "http://tylerasai.com/credit_card_img/ATB_prepaid.png",
           "provider": "MasterCard",
           "welcomeOffer": null,
           "annualFee": 19,
